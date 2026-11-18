@@ -1,0 +1,5 @@
+node_modules/
+.vscode-test/
+*.vsix
+# Personal notes, not for the public repo
+PUBLISH.md

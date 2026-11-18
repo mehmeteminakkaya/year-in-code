@@ -1,0 +1,10 @@
+.vscode-test/**
+node_modules/**
+test/**
+scripts/**
+images/panel-light.png
+images/panel-top.png
+media/icon.svg
+*.vsix
+.gitignore
+PUBLISH.md
