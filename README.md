@@ -6,7 +6,7 @@ No account. No GitHub token. Works with private repos, GitLab, Bitbucket and rep
 
 [![Buy me a coffee](https://img.shields.io/badge/Support-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehmeteminf)
 
-![Share card](images/share-card.png)
+![Year in Code demo](images/demo.gif)
 
 ## How to use
 
@@ -23,6 +23,9 @@ No account. No GitHub token. Works with private repos, GitLab, Bitbucket and rep
 - **Top languages** by lines changed
 - **Most touched files**, your **biggest commit**, your **first and last commit** of the year
 - **Your commit vocabulary:** the words you use most in commit messages
+- **A share card** (1200×675 PNG) for X, LinkedIn or Reddit:
+
+![Share card](images/share-card.png)
 
 ![Recap panel](images/panel-dark.png)
 

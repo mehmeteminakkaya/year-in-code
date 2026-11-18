@@ -9,3 +9,5 @@ media/icon.svg
 .gitignore
 PUBLISH.md
 .github/**
+images/demo.gif
+LAUNCH.md

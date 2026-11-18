@@ -23,8 +23,20 @@
   "engines": {
     "vscode": "^1.90.0"
   },
-  "categories": ["Visualization", "Other"],
-  "keywords": ["git", "wrapped", "year in review", "statistics", "commits", "stats", "recap", "streak"],
+  "categories": [
+    "Visualization",
+    "Other"
+  ],
+  "keywords": [
+    "git",
+    "wrapped",
+    "year in review",
+    "statistics",
+    "commits",
+    "stats",
+    "recap",
+    "streak"
+  ],
   "main": "./src/extension.js",
   "activationEvents": [],
   "contributes": {
@@ -41,7 +53,9 @@
       "properties": {
         "yearInCode.authorEmails": {
           "type": "array",
-          "items": { "type": "string" },
+          "items": {
+            "type": "string"
+          },
           "default": [],
           "description": "Extra email addresses that are you (for commits made from other machines or accounts). Your git user.email is always included."
         }
@@ -56,6 +70,8 @@
   "devDependencies": {
     "@vscode/test-electron": "2.5.2",
     "@vscode/vsce": "3.6.2",
-    "playwright": "1.56.1"
+    "gifenc": "^1.0.3",
+    "playwright": "1.56.1",
+    "pngjs": "^7.0.0"
   }
 }
