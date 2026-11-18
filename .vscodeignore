@@ -8,3 +8,4 @@ media/icon.svg
 *.vsix
 .gitignore
 PUBLISH.md
+.github/**

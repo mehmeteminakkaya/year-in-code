@@ -225,9 +225,10 @@
       lx += g.measureText(label).width + 56;
     });
 
+    // Every shared card tells the viewer how to make their own.
     g.fillStyle = "#9d95cf";
     g.font = font(500, 20);
-    g.fillText("Year in Code for VS Code", 64, 630);
+    g.fillText("Make yours: search “Year in Code” in VS Code extensions", 64, 630);
     return c.toDataURL("image/png");
   }
 
